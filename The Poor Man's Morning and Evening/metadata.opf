@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f7abe41-554e-42e9-bb16-5e50a92b2a50</dc:identifier>
+        <dc:title>The Poor Man's Morning and Evening Portions</dc:title>
+        <dc:creator opf:file-as="Hawker, Robert" opf:role="aut">Robert Hawker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-04T08:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Devotional</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-05T11:57:51+00:00"/>
+        <meta name="calibre:title_sort" content="Poor Man's Morning and Evening Portions, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
